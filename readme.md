@@ -14,4 +14,10 @@
 
 7- git commit --amend // para cambiar los textos de los commits pasados (para salir se debe de tocar las teclas escape : w q ! )
 
-8- git checkout -b rama-heroes 
+8- git checkout -b rama-heroes // esto es para crear una rama
+
+9- git commit master // 
+
+10- git branch d rama-heroes // esto sirve para borrar una rama
+
+11- git push 
