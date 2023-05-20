@@ -6,4 +6,10 @@
 
 3- git reset . // revierte todo lo que ahce el git add . 
  
-4- git commit //  
+4- git commit //  guarda todo lo que se agrego
+
+5- git checkout -- . // recupera todo lo que hiciste en el ultimo commit
+
+6- git log // sirve para arreglar los commits o mensajes de commit
+
+7- git commit -amend // para cambiar los textos de los commits pasados (para salir se debe de tocar las teclas escape : w q ! )
