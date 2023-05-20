@@ -16,7 +16,7 @@
 
 8- git checkout -b rama-heroes // esto es para crear una rama
 
-9- git commit master // 
+9- git checkout master // se utiliza en Git para cambiar al branch o rama llamada "master".
 
 10- git branch d rama-heroes // esto sirve para borrar una rama
 
