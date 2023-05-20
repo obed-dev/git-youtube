@@ -12,4 +12,6 @@
 
 6- git log // sirve para arreglar los commits o mensajes de commit
 
-7- git commit -amend // para cambiar los textos de los commits pasados (para salir se debe de tocar las teclas escape : w q ! )
+7- git commit --amend // para cambiar los textos de los commits pasados (para salir se debe de tocar las teclas escape : w q ! )
+
+8- git checkout -b rama-heroes 
