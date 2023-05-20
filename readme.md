@@ -4,7 +4,7 @@
 
 2- git add . // preparar todos los archivos para una fotografia y esa fotografia se conoce cmo un commit
 
-3- git reset . // revierte todo lo que ahce el git add . 
+3- git reset . // revierte todo lo que hace el git add . 
  
 4- git commit //  guarda todo lo que se agrego
 
@@ -21,3 +21,5 @@
 10- git branch d rama-heroes // esto sirve para borrar una rama
 
 11- git push 
+
+12- git commit -am // es la union de add . y "m" de mensaje 
