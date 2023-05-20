@@ -20,6 +20,6 @@
 
 10- git branch d rama-heroes // esto sirve para borrar una rama
 
-11- git push 
+11- git push / / se usa para enviar lo cambios locales en tur repositorio renmoto.
 
 12- git commit -am // es la union de add . y "m" de mensaje 
